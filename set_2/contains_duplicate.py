@@ -24,5 +24,4 @@ class Solution:
         # return False
 
         # faster approach
-
         return len(nums) != len(set(nums))
